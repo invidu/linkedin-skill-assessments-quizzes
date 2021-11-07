@@ -188,3 +188,6 @@
 - [ ] 2000
 - [ ] 350
 - [ ] 20
+
+#### Q28. Assigning indirect costs to specific jobs is completed by ___
+- [x] using the predetermined overhead rate
